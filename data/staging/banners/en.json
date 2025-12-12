@@ -2,13 +2,19 @@
   "items": [
     {
       "id": "banner-mapo",
-      "imageUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/banner_mapo_en.png",
+      "image": {
+        "original": "https://mock-121.vercel.app/staging/images/banner_mapo_en.png",
+        "web": "https://mock-121.vercel.app/staging/images/banner_mapo_en.webp"
+      },
       "linkUrl": "https://store.dcentwallet.com/blogs/post/tap-that-drop-with-map-protocol",
       "order": 1
     },
     {
       "id": "banner-dcent",
-      "imageUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/banner_dcent.png",
+      "image": {
+        "original": "https://mock-121.vercel.app/staging/images/banner_dcent.png",
+        "web": "https://mock-121.vercel.app/staging/images/banner_dcent.webp"
+      },
       "linkUrl": "https://store.dcentwallet.com",
       "description": "Enhance your security with\n**D'CENT biometric wallet**!",
       "ctaText": "Buy Now",
@@ -16,7 +22,10 @@
     },
     {
       "id": "banner-blog",
-      "imageUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/banner_blog.png",
+      "image": {
+        "original": "https://mock-121.vercel.app/staging/images/banner_blog.png",
+        "web": "https://mock-121.vercel.app/staging/images/banner_blog.webp"
+      },
       "linkUrl": "https://store.dcentwallet.com/blogs/post",
       "description": "Visit the new D'CENT Blog to explore the latest updates first!",
       "ctaText": "Explore",

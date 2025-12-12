@@ -4,21 +4,30 @@
       "id": "fav-opensea",
       "serviceId": "opensea",
       "name": "OpenSea, the largest NFT marketplace",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_opensea.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/staging/images/icon_opensea.png",
+        "web": "https://mock-121.vercel.app/staging/images/icon_opensea.webp"
+      },
       "url": "https://opensea.io"
     },
     {
       "id": "fav-moonpay",
       "serviceId": "moonpay",
       "name": "MoonPay",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_moonpay.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/staging/images/icon_moonpay.png",
+        "web": "https://mock-121.vercel.app/staging/images/icon_moonpay.webp"
+      },
       "url": "https://buy.moonpay.com/v2/buy"
     },
     {
       "id": "fav-rarible",
       "serviceId": "rarible",
       "name": "Rarible - NFT Marketplace for Brands, Communities and Traders",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_rarible.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/staging/images/icon_rarible.png",
+        "web": "https://mock-121.vercel.app/staging/images/icon_rarible.webp"
+      },
       "url": "https://rarible.com/"
     }
   ]

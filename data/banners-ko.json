@@ -2,13 +2,19 @@
   "items": [
     {
       "id": "banner-mapo",
-      "imageUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/banner_mapo_kr.png",
+      "image": {
+        "original": "https://mock-121.vercel.app/production/images/banner_mapo_kr.png",
+        "web": "https://mock-121.vercel.app/production/images/banner_mapo_kr.webp"
+      },
       "linkUrl": "https://store-kr.dcentwallet.com/blogs/post/tap-that-drop-with-map-protocol",
       "order": 1
     },
     {
       "id": "banner-dcent",
-      "imageUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/banner_dcent.png",
+      "image": {
+        "original": "https://mock-121.vercel.app/production/images/banner_dcent.png",
+        "web": "https://mock-121.vercel.app/production/images/banner_dcent.webp"
+      },
       "linkUrl": "https://store-kr.dcentwallet.com",
       "description": "**디센트 지문인증형 지갑**으로\n한층 더 강화된 보안을 경험하세요!",
       "ctaText": "구매하기",
@@ -16,7 +22,10 @@
     },
     {
       "id": "banner-blog",
-      "imageUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/banner_blog.png",
+      "image": {
+        "original": "https://mock-121.vercel.app/production/images/banner_blog.png",
+        "web": "https://mock-121.vercel.app/production/images/banner_blog.webp"
+      },
       "linkUrl": "https://store-kr.dcentwallet.com/blogs/post",
       "description": "새로운 디센트 블로그를 방문하여 최신 업데이트를 먼저 확인해보세요!",
       "ctaText": "확인하기",

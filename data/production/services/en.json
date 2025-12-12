@@ -4,7 +4,10 @@
       "id": "moonpay",
       "name": "MoonPay",
       "description": "MoonPay offers simple and safer way to buy crypto instantly using VISA/Mastercard payment",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_moonpay.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/production/images/icon_moonpay.png",
+        "web": "https://mock-121.vercel.app/production/images/icon_moonpay.webp"
+      },
       "url": "https://buy.moonpay.com",
       "visibility": {
         "platforms": ["ios", "android"],
@@ -15,7 +18,10 @@
       "id": "ftso-portal",
       "name": "FTSO Portal",
       "description": "FTSO Portal is a service by D'CENT to provide fast and easy way to delegate Vote Power to the user's favorite FTSO provider. By delegating Vote Power, users can earn passive income as reward.",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_ftso.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/production/images/icon_ftso.png",
+        "web": "https://mock-121.vercel.app/production/images/icon_ftso.webp"
+      },
       "url": "https://ftsoportal.com/",
       "visibility": {
         "platforms": ["ios", "android"],
@@ -26,7 +32,10 @@
       "id": "astar-portal",
       "name": "Astar Portal",
       "description": "Astar Portal is the official Astar Network application for using everything that Astar Network offers.",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_astar.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/production/images/icon_astar.png",
+        "web": "https://mock-121.vercel.app/production/images/icon_astar.webp"
+      },
       "url": "https://portal.astar.network/",
       "visibility": {
         "platforms": ["ios", "android"],
@@ -37,7 +46,10 @@
       "id": "1inch",
       "name": "1inch",
       "description": "1inch is a decentralized exchange (DEX) aggregator. It's designed to roll liquidity and pricing from all major DEXes into one platform, making it easy to get the best price for the desired trade.",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_1inch.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/production/images/icon_1inch.png",
+        "web": "https://mock-121.vercel.app/production/images/icon_1inch.webp"
+      },
       "url": "https://app.1inch.io/",
       "visibility": {
         "platforms": ["ios", "android"],
@@ -48,7 +60,10 @@
       "id": "xdsea",
       "name": "XDSea",
       "description": "XDSea is the world's first and largest peer-to-peer decentralized marketplace for buying and selling NFTs built on the XDC Network.",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_xdsea.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/production/images/icon_xdsea.png",
+        "web": "https://mock-121.vercel.app/production/images/icon_xdsea.webp"
+      },
       "url": "https://xdsea.com/",
       "visibility": {
         "platforms": ["ios", "android"],
@@ -59,7 +74,10 @@
       "id": "compound",
       "name": "Compound",
       "description": "Compound is Ethereum's algorithmic money market protocol that allows users to earn interest or borrow assets through collateral. Anyone can supply assets to Compound's liquidity pool and earn continuous compound interest immediately.",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_compound.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/production/images/icon_compound.png",
+        "web": "https://mock-121.vercel.app/production/images/icon_compound.webp"
+      },
       "url": "https://app.compound.finance/",
       "visibility": {
         "platforms": ["ios", "android"],
@@ -70,7 +88,10 @@
       "id": "pooltogether",
       "name": "PoolTogether",
       "description": "PoolTogether is an Ethereum based application that makes saving money as fun as a game. You join a pool by getting a \"savings ticket\". Each Savings Ticket gives you a chance to win a prize, but even if you don't win, you keep all your money!",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_pooltogether.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/production/images/icon_pooltogether.png",
+        "web": "https://mock-121.vercel.app/production/images/icon_pooltogether.webp"
+      },
       "url": "https://app.pooltogether.com/",
       "visibility": {
         "platforms": ["ios", "android"],
@@ -81,7 +102,10 @@
       "id": "opensea",
       "name": "OpenSea",
       "description": "OpenSea is a marketplace for digital goods, including collectibles, game items, digital art, and other digital assets backed by blockchain such as Ethereum.",
-      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_opensea.png",
+      "icon": {
+        "original": "https://mock-121.vercel.app/production/images/icon_opensea.png",
+        "web": "https://mock-121.vercel.app/production/images/icon_opensea.webp"
+      },
       "url": "https://opensea.io/",
       "visibility": {
         "platforms": ["ios", "android"],
