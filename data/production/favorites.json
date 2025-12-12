@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "id": "fav-opensea",
+      "serviceId": "opensea",
+      "name": "OpenSea, the largest NFT marketplace",
+      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_opensea.png",
+      "url": "https://opensea.io"
+    },
+    {
+      "id": "fav-moonpay",
+      "serviceId": "moonpay",
+      "name": "MoonPay",
+      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_moonpay.png",
+      "url": "https://buy.moonpay.com/v2/buy"
+    },
+    {
+      "id": "fav-rarible",
+      "serviceId": "rarible",
+      "name": "Rarible - NFT Marketplace for Brands, Communities and Traders",
+      "iconUrl": "https://raw.githubusercontent.com/KyungeunKim/iotrust-frontend-homework/main/images/icon_rarible.png",
+      "url": "https://rarible.com/"
+    }
+  ]
+}

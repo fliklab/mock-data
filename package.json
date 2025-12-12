@@ -1,0 +1,16 @@
+{
+  "name": "mock-server",
+  "version": "1.0.0",
+  "description": "Mock Server for serving JSON and image files",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel",
+    "deploy:prod": "vercel --prod"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@vercel/node": "^3.0.0",
+    "typescript": "^5.0.0",
+    "vercel": "^37.0.0"
+  }
+}
